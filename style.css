@@ -1,0 +1,31 @@
+html{
+    width: auto;
+    height: auto;
+   
+    background-color: #c5ebfe;
+}
+#mainContainer{
+ 
+    width: 100%;
+    height: 100%;
+}
+#post_01{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 5px  #888888;
+    border-style: none;
+    border-radius: 7px;
+    background-color: white;
+    font-family: arial;
+}
+p{
+    width: 85%;
+    margin: auto;
+    padding-bottom: 18px;
+}
+hr{
+    width: 65%;
+    
+}
